@@ -16,6 +16,6 @@ I like building things with
   <a href="https://www.deepseek.com"><img width="36" alt="DeepSeek" src="assets/deepseek.svg" align="absmiddle" />&nbsp;<b>DeepSeek-V4.1-Flash</b></a>
 </p>
 
-<sub>Terminal, code, and a little curiosity ᵕ̈</sub>
+<sub>Hungry, lazy, and a little sleepy ᵕ̈</sub>
 
 </div>
