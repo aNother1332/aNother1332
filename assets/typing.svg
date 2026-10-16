@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="24" viewBox="0 0 440 24">
+  <style>
+    .t {
+      font-family: "Segoe UI", -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif;
+      font-size: 14px;
+      fill: #8B95A5;
+      text-anchor: middle;
+      dominant-baseline: middle;
+      opacity: 0;
+      animation: cyc 9s ease-in-out infinite;
+    }
+    .t2 { animation-delay: 3s; }
+    .t3 { animation-delay: 6s; }
+    @keyframes cyc {
+      0%    { opacity: 0; }
+      5%    { opacity: 1; }
+      28%   { opacity: 1; }
+      33.3% { opacity: 0; }
+      100%  { opacity: 0; }
+    }
+  </style>
+  <text class="t" x="220" y="12">把想法变成能用的小工具</text>
+  <text class="t t2" x="220" y="12">万物皆可自动化</text>
+  <text class="t t3" x="220" y="12">快乐造轮子 ✨</text>
+</svg>
