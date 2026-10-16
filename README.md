@@ -12,58 +12,7 @@
 
 ---
 
-### 🚀 关于我
 
-- 🎓 南方科技大学（SUSTech）在读
-- 🛠️ 喜欢把课堂上、生活里遇到的小麻烦写成**能用的小工具**
-- 📦 造过的轮子：选课评教助手、校园神车查询、Word 公式插件、一键仿真 GUI……
-- 🌱 正在折腾：本地 LLM 网关、动画与交互
-
----
-
-### 🛠️ 技术栈
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,python,java,cs,c,nodedotjs,html,css,latex,git,github,githubactions,vscode,md&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,python,java,cs,c,nodedotjs,html,css,latex,git,github,githubactions,vscode,md&theme=light" />
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,c,nodedotjs,html,css,latex,git,github,githubactions,vscode,md" alt="skills" />
-  </picture>
-</div>
-
----
-
-### ✨ 作品
-
-<p>
-  <a href="https://github.com/aNother1332/zen-pool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aNother1332&repo=zen-pool&theme=transparent&hide_border=true" width="49%" align="left" alt="zen-pool" />
-  </a>
-  <a href="https://github.com/aNother1332/sustech-nces-helper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aNother1332&repo=sustech-nces-helper&theme=transparent&hide_border=true" width="49%" align="right" alt="sustech-nces-helper" />
-  </a>
-</p>
-<br clear="all" />
-
-<p>
-  <a href="https://github.com/aNother1332/sustech-godspeed">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aNother1332&repo=sustech-godspeed&theme=transparent&hide_border=true" width="49%" align="left" alt="sustech-godspeed" />
-  </a>
-  <a href="https://github.com/aNother1332/word-formula-copilot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aNother1332&repo=word-formula-copilot&theme=transparent&hide_border=true" width="49%" align="right" alt="word-formula-copilot" />
-  </a>
-</p>
-<br clear="all" />
-
-<p>
-  <a href="https://github.com/aNother1332/SME212-SimGUI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aNother1332&repo=SME212-SimGUI&theme=transparent&hide_border=true" width="49%" align="left" alt="SME212-SimGUI" />
-  </a>
-  <a href="https://github.com/aNother1332/Minellk-GLM-Revised">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aNother1332&repo=Minellk-GLM-Revised&theme=transparent&hide_border=true" width="49%" align="right" alt="Minellk-GLM-Revised" />
-  </a>
-</p>
-<br clear="all" />
 
 ---
 
