@@ -8,6 +8,8 @@
 
 SUSTech / Nanjing
 
+<p><a href="https://another1332.github.io/"><b>进入我的个人主页 ↗</b></a></p>
+
 I like building things with
 
 <p>
